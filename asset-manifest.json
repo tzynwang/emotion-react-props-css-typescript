@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emotion-react-props-css-typescript/static/css/main.5c9ccc0a.css",
+    "main.js": "/emotion-react-props-css-typescript/static/js/main.ac16adbc.js",
+    "static/js/787.a6557452.chunk.js": "/emotion-react-props-css-typescript/static/js/787.a6557452.chunk.js",
+    "static/media/sunguk-kim-tIfrzHxhPYQ-unsplash.jpg": "/emotion-react-props-css-typescript/static/media/sunguk-kim-tIfrzHxhPYQ-unsplash.8b474327c4b19a651445.jpg",
+    "index.html": "/emotion-react-props-css-typescript/index.html",
+    "main.5c9ccc0a.css.map": "/emotion-react-props-css-typescript/static/css/main.5c9ccc0a.css.map",
+    "main.ac16adbc.js.map": "/emotion-react-props-css-typescript/static/js/main.ac16adbc.js.map",
+    "787.a6557452.chunk.js.map": "/emotion-react-props-css-typescript/static/js/787.a6557452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c9ccc0a.css",
+    "static/js/main.ac16adbc.js"
+  ]
+}
